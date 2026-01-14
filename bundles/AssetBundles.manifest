@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.32f1
+CRC: 4001482390
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mission_3bundle
+      Dependencies: {}
+    Info_1:
+      Name: mission_4bundle
+      Dependencies: {}
+    Info_2:
+      Name: mission_5bundle
+      Dependencies: {}
