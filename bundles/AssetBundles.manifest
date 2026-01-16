@@ -1,15 +1,24 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.32f1
-CRC: 4001482390
+CRC: 2541533959
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: mission_3bundle
+      Name: mission_1
       Dependencies: {}
     Info_1:
-      Name: mission_4bundle
+      Name: mission_2
       Dependencies: {}
     Info_2:
-      Name: mission_5bundle
+      Name: mission_3
+      Dependencies: {}
+    Info_3:
+      Name: mission_4
+      Dependencies: {}
+    Info_4:
+      Name: mission_5
+      Dependencies: {}
+    Info_5:
+      Name: mission_6
       Dependencies: {}
